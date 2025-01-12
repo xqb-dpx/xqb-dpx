@@ -1,17 +1,17 @@
-# <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> About me
+<img src="https://github.com/xb-dx/xb-dx/blob/main/resource/footer.svg" style="width: 100%;" />
+
+# <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
+
+# About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
 > I made C-SHARK project to internet sanction bypassing [
 `(more about C-SHARK)`](https://github.com/xb-dx/C-SHARK/blob/main/README.md).
 
-# <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> My World
+# My World
 
 | Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-<img src="https://github.com/xb-dx/xb-dx/blob/main/resource/footer.svg" style="width: 100%;" />
-
-<img src="https://github.com/xb-dx/xb-dx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
 
 ```py
 # Python
