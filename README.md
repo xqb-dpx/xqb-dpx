@@ -5,8 +5,8 @@
 # About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
-> I made C-SHARK project to internet sanction bypassing [
-`(more about C-SHARK)`](https://github.com/xb-dx/C-SHARK/blob/main/README.md) and SQ-LION and POWE-RAVEN (soon).
+> I made C-Shark project to internet sanction bypassing [
+`(more about C-Shark)`](https://github.com/xb-dx/C-SHARK/blob/main/README.md), SQ-Lion, POWE-Raven, ROCKE-Tiger (soon).
 
 # My World
 
