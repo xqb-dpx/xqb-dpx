@@ -11,6 +11,8 @@
 | Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows | Linux | Android | .NET Framework | .NET SDK | 
 |----------------|---------|------------|------------|--------------|----------------|-------|------|------------|----------|----|--------|------|-----|---------|-------|---------|----------------|----------|
 
+---
+
 ```py
 # Python
 """ b‿daarr from Quasar """
