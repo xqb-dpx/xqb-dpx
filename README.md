@@ -15,39 +15,39 @@
 
 ```py
 # Python
-""" b‿daarr from SPACE """
+""" b‿daarr from Quasar """
 
-print("SPACE")
-print("C-SHARK")
-print("SQ-LION")
+print("C-Shark")
+print("SQ-Lion")
+print("FLO-Wolf")
 ```
 
 ```cpp
 #include <iostream>
 using namespace CPP;
 
-class CPlusPlusSpace {
+class Quasar {
 static:
     void main() {
         // C++
-        /* b‿daarr from SPACE */
+        /* b‿daarr from Quasar */
 
-        cout << "SPACE" << endl;
-        cout << "C-SHARK" << endl;
-        cout << "SQ-LION" << endl;
+        cout << "C-Shark" << endl;
+        cout << "SQ-Lion" << endl;
+        cout << "FLO-Wolf" << endl;
     }
 };
 ```
 
 ```java
-class JavaSpace {
+class Java {
     static void main(String[] args) {
         // Java
-        /* b‿daarr from SPACE*/
+        /* b‿daarr from Quasar */
 
-        System.out.println("SPACE");
-        System.out.println("C-SHARK");
-        System.out.println("SQ-LION");
+        System.out.println("C-Shark");
+        System.out.println("SQ-Lion");
+        System.out.println("FLO-Wolf");
     }
 }
 ```
@@ -55,16 +55,19 @@ class JavaSpace {
 ```cs
 using System;
 
-class CSharpSpace
+namespace CSharp
 {
-    static void Main()
+    class Quasar
     {
-        // C#
-        /* b‿daarr from SPACE */
+        static void Main()
+        {
+            // C#
+            /* b‿daarr from Quasar */
 
-        Console.WriteLine("SPACE");
-        Console.WriteLine("C-SHARK");
-        Console.WriteLine("SQ-LION");
+            Console.WriteLine("C-Shark");
+            Console.WriteLine("SQ-LION");
+            Console.WriteLine("FLO-Wolf");
+        }
     }
 }
 ```
@@ -74,41 +77,41 @@ namespace QSharpSpace{
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
 
-    operation Space() : Unit {
+    operation Quasar() : Unit {
         // Q#
-        // b‿daarr from SPACE
+        // b‿daarr from Quasar
 
-        Message("SPACE");
-        Message("C-SHARK");
-        Message("SQ-LION");
+        Message("C-Shark");
+        Message("SQ-Lion");
+        Message("FLO-Wolf");
     }
 }
 ```
 
 ```fs
 // F#
-(* b‿daarr from SPACE *)
+(* b‿daarr from Quasar *)
 
-printfn "SPACE"
-printfn "C-SHARK"
-printfn "SQ-LION"
+printfn "C-Shark"
+printfn "SQ-Lion"
+printfn "FLO-Wolf"
 ```
 
 ```sql
 -- SQL
-/* b‿daarr from SPACE */
+/* b‿daarr from Quasar */
 
-SELECT 'SPACE', 'C-SHARK', 'SQ-LION';
+SELECT 'C-Shark', 'SQ-Lion', 'FLO-Wolf';
 ```
 
 ```php
 <?php
 // # PHP
-/* b‿daarr from SPACE */
+/* b‿daarr from Quasar */
 
-echo "SPACE";
-echo "C-SHARK";
-echo "SQ-LION";
+echo "C-Shark";
+echo "SQ-Lion";
+echo "FLO-Wolf";
 ?>
 ```
 
@@ -117,41 +120,41 @@ echo "SQ-LION";
     "comment" : [
     {
         "_language" : "Json",
-        "_me" : "b‿daarr from SPACE"
+        "_me" : "b‿daarr from Quasar"
     }]
 
-    "company": "SPACE",
-    "01" : "C-SHARK",
-    "02" : "SQ-LION"
+    "01" : "C-Shark",
+    "02" : "SQ-Lion",
+    "03" : "FLO-Wolf"
 }
 ```
 
 ```ps1
 # PowerShell
-<# b‿daarr from SPACE #>
+<# b‿daarr from Quasar #>
 
-Write-Output "SPACE"
-Write-Output "C-SHARK"
-Write-Output "SQ-LION"
+Write-Output "C-Shark"
+Write-Output "SQ-Lion"
+Write-Output "FLO-Wolf"
 ```
 
 ```sh
 #!/bin/bash
-# Bash shell
-# b‿daarr from SPACE
+# Bash Shell
+# b‿daarr from Quasar
 
-printf "SPACE"
-printf "C-SHARK"
-printf "SQ-LION"
+printf "C-Shark"
+printf "SQ-Lion"
+printf "FLO-Wolf"
 ```
 
 ```bat
 @echo off
-:: Batch script or Command Prompt
-REM b‿daarr from SPACE
+:: Batch Script or Command Prompt
+REM b‿daarr from Quasar
 
-echo SPACE
-echo C-SHARK
-echo SQ-LION
+echo C-Shark
+echo SQ-Lion
+echo FLO-Wolf
 pause
 ```
