@@ -10,7 +10,7 @@
 | Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" />
+<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" style="width: 100%; height: 200px;" />
 
 ```py
 # Python
