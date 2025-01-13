@@ -1,5 +1,4 @@
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" style="width: 100%;" />
-
 # About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
