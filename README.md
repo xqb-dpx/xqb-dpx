@@ -1,12 +1,12 @@
-<img src="https://github.com/xb-dx/xb-dx/blob/main/resource/footer.svg" style="width: 100%;" />
+<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" style="width: 100%;" />
 
-# <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xb-dx/xb-dx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
+# <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
 
 # About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
 > I made C-Shark project to internet sanction bypassing [
-`(more about C-Shark)`](https://github.com/xb-dx/C-SHARK/blob/main/README.md), SQ-Lion, POWE-Raven & ROCKE-Tiger (soon).
+`(more about C-Shark)`](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md), SQ-Lion, POWE-Raven & ROCKE-Tiger (soon).
 
 # My World
 
