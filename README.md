@@ -1,5 +1,3 @@
-<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" />
-
 # About me
 
 > My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
@@ -11,6 +9,8 @@
 
 | Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows| Linux | Android | .NET Framework | .NET SDK | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" />
 
 ```py
 # Python
