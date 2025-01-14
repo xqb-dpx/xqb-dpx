@@ -159,7 +159,7 @@ Write-Output "SQ-Lion"
 Write-Output "FLO-Wolf"
 ```
 
-```b``` ```a``` ```s``` ```h``` | ```s``` ```c``` ```r``` ```i``` ```p``` ```t```
+```b``` ```a``` ```s``` ```h```
 
 ```sh
 #!/bin/bash
@@ -171,7 +171,7 @@ printf "SQ-Lion"
 printf "FLO-Wolf"
 ```
 
-```b``` ```a``` ```t``` ```c``` ```h``` | ```s``` ```c``` ```r``` ```i``` ```p``` ```t```
+```b``` ```a``` ```t``` ```c``` ```h```
 
 ```bat
 @echo off
