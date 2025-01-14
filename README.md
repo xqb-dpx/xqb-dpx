@@ -110,7 +110,7 @@ printfn "SQ-Lion"
 printfn "FLO-Wolf"
 ```
 
-```S``` ```Q``` ```L```
+```s``` ```q``` ```l```
 
 ```sql
 /* b‿daarr */
