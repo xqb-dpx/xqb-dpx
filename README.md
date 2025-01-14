@@ -2,7 +2,7 @@
 
 # About me
 
-> My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!
+**My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!**
 
 | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> [`Quasar Company`](https://github.com/xqb-dpx) | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [`C-Shark`](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md) | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> `SQ-Lion` | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> `FLO-Wolf` |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ print("SQ-Lion")
 print("FLO-Wolf")
 ```
 
-```c``` ```+``` ```+```
++ ```c``` ```+``` ```+```
 
 ```cpp
 #include <iostream>
@@ -44,7 +44,7 @@ static:
 };
 ```
 
-```j``` ```a``` ```v``` ```a```
++ ```j``` ```a``` ```v``` ```a```
 
 ```java
 class Code {
@@ -59,7 +59,7 @@ class Code {
 }
 ```
 
-```c``` ```#```
++ ```c``` ```#```
 
 ```cs
 using System;
@@ -81,7 +81,7 @@ namespace Code
 }
 ```
 
-```q``` ```#```
++ ```q``` ```#```
 
 ```qs
 namespace Code {
@@ -99,7 +99,7 @@ namespace Code {
 }
 ```
 
-```f``` ```#```
++ ```f``` ```#```
 
 ```fs
 (* b‿daarr *)
@@ -110,7 +110,7 @@ printfn "SQ-Lion"
 printfn "FLO-Wolf"
 ```
 
-```s``` ```q``` ```l```
++ ```s``` ```q``` ```l```
 
 ```sql
 /* b‿daarr */
@@ -119,7 +119,7 @@ printfn "FLO-Wolf"
 SELECT 'C-Shark', 'SQ-Lion', 'FLO-Wolf';
 ```
 
-```p``` ```h``` ```p```
++ ```p``` ```h``` ```p```
 
 ```php
 <?php
@@ -132,7 +132,7 @@ echo "FLO-Wolf";
 ?>
 ```
 
-```j``` ```s``` ```o``` ```n```
++ ```j``` ```s``` ```o``` ```n```
 
 ```json
 {
@@ -148,7 +148,7 @@ echo "FLO-Wolf";
 }
 ```
 
-```p``` ```o``` ```w``` ```e``` ```r``` ```s``` ```h``` ```e``` ```l``` ```l```
++ ```p``` ```o``` ```w``` ```e``` ```r``` ```s``` ```h``` ```e``` ```l``` ```l```
 
 ```ps1
 <# b‿daarr #>
@@ -159,7 +159,7 @@ Write-Output "SQ-Lion"
 Write-Output "FLO-Wolf"
 ```
 
-```b``` ```a``` ```s``` ```h```
++ ```b``` ```a``` ```s``` ```h```
 
 ```sh
 #!/bin/bash
@@ -171,7 +171,7 @@ printf "SQ-Lion"
 printf "FLO-Wolf"
 ```
 
-```b``` ```a``` ```t``` ```c``` ```h```
++ ```b``` ```a``` ```t``` ```c``` ```h```
 
 ```bat
 @echo off
