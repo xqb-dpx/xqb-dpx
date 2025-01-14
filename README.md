@@ -184,9 +184,14 @@ echo FLO-Wolf
 pause
 ```
 
-```html
+```h``` ```t``` ```m``` ```l```
 
-<h>C-Shark</h>
+```html
+<DOCTYPE html/>
+
+<h1>C-Shark</h1>
+<h1>SQ-Lion</h1>
+<h1>FLO-Wolf</h1>
 ```
 
 # <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
