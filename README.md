@@ -4,11 +4,24 @@
 
 **My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!**
 
-| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> | [`Quasar Company`](https://github.com/xqb-dpx) |
-|---|---|
-| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> | [`C-Shark`](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md) |
-| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> | `SQ-Lion` |
-| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> | `FLO-Wolf` |
+<table style="background-color: white;">
+  <tr>
+    <td><img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /></td>
+    <td><a href="https://github.com/xqb-dpx">Quasar Company</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /></td>
+    <td><a href="https://github.com/xqb-dpx/C-SHARK/blob/main/README.md">C-Shark</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /></td>
+    <td>SQ-Lion</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /></td>
+    <td>FLO-Wolf</td>
+  </tr>
+</table>
 
 ---
 
