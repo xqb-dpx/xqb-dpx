@@ -2,7 +2,7 @@
 
 # About me
 
-**My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!**
+***My name is b‿daarr (in Persian means 'being awake') and a part of Quasar Company!***
 
 concert this md to html: 
 
