@@ -196,9 +196,9 @@ pause
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="project 01">C-Shark</div>
-    <div class="project 02">SQ-Lion</div>
-    <div class="project 03">FLO-Wolf</div>
+    <div class="project-01">C-Shark</div>
+    <div class="project-02">SQ-Lion</div>
+    <div class="project-03">FLO-Wolf</div>
 
     <script src="script.js"></script>
 </body>
@@ -220,6 +220,14 @@ pause
 + ```j``` ```a``` ```v``` ```a``` ```s``` ```c``` ```r``` ```i``` ```p``` ```t```
 
 ```js
+// Quasar
+
+document.addEventListener('DOMContentLoaded', () => {
+    const projects = document.querySelector('h1');
+    projects.forEach(projects => {
+        console.log(projects.className);
+    });
+});
 ```
 
 # <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
