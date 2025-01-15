@@ -11,8 +11,8 @@
 
 # My World
 
-| Cyber Security | Windows | Linux | Android |
-|----------------|---------|-------|---------|
+| Software | Hardware | Network | Windows | Linux | Android | Cyber Security |
+|----------|----------|---------|---------|-------|---|---|
 
 + ```p``` ```y``` ```t``` ```h``` ```o``` ```n```
 
