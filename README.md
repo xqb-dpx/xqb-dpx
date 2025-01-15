@@ -142,9 +142,9 @@ echo "FLO-Wolf";
         "_company" : "Quasar",
     }]
 
-    "01" : "C-Shark",
-    "02" : "SQ-Lion",
-    "03" : "FLO-Wolf"
+    "project_01" : "C-Shark",
+    "project_02" : "SQ-Lion",
+    "project_03" : "FLO-Wolf"
 }
 ```
 
@@ -187,20 +187,29 @@ pause
 + ```h``` ```t``` ```m``` ```l```
 
 ```html
-<DOCTYPE html/>
-<!-- b‿daarr -->
-<!-- Quasar -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="project-01">C-Shark</div>
+    <div class="project-02">SQ-Lion</div>
+    <div class="project-03">FLO-Wolf</div>
 
-<h1>C-Shark</h1>
-<h1>SQ-Lion</h1>
-<h1>FLO-Wolf</h1>
+    <script src="script.js"></script>
+</body>
+</html>
 ```
 
 + ```c``` ```s``` ```s```
 
 ```css
 /* b‿daarr */
-/* Quasar*/
+/* Quasar */
 ```
 
 # <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
