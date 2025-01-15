@@ -11,8 +11,8 @@
 
 # My World
 
-| Cyber Security | Quantum | PowerShell | Bash Shell | Batch Script | Command Prompt | HTML5 | CSS3 | JavaScript | Markdown | C# | Python | Java | SQL | Windows | Linux | Android | .NET Framework | .NET SDK | 
-|----------------|---------|------------|------------|--------------|----------------|-------|------|------------|----------|----|--------|------|-----|---------|-------|---------|----------------|----------|
+| Cyber Security | Windows | Linux | Android |
+|----------------|---------|-------|---------|
 
 + ```p``` ```y``` ```t``` ```h``` ```o``` ```n```
 
