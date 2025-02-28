@@ -7,9 +7,9 @@
 ***My nickname is b‿daarr (in Persian means 'being awake')***
 
 | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> | `C-Shark`|
+|---|---|
 | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> | `SQ-Lion` |
 | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> |  `FLO-Wolf` |
-|---|---|
 
 ---
 
