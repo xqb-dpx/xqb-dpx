@@ -2,9 +2,10 @@
 
 # About me
 
+<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" />
 ***My nickname is b‿daarr (in Persian means 'being awake')***
 
-| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> | Q Company |
+|   |   |
 |---|---|
 | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> | `C-Shark`|
 | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> | `SQ-Lion` |
