@@ -242,11 +242,11 @@ document.addEventListener('DOMContentLoaded', () => {
 <!-- b‿daarr -->
 \[Quasar\]
 
-# C-Shark
+<!-- C-Shark -->
 
-# SQ-Lion
+<!-- SQ-Lion -->
 
-# FLO-Wolf 
+<!-- FLO-Wolf -->
 ```
 
 # <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
