@@ -20,6 +20,9 @@
 | Software | Hardware | Network | Windows | Linux | Android | Cyber Security | Programming |
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
+
+<a href="https://www.buymeacoffee.com/xqb_dpx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=xqb_dpx&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ---
 
 + ```p``` ```y``` ```t``` ```h``` ```o``` ```n```
@@ -251,7 +254,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	 FLO-Wolf -->
 ```
-
-# <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/00.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/01.gif" style="width: 48px; height: 48px;" /> <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/02.gif" style="width: 48px; height: 48px;" />
-
-<a href="https://www.buymeacoffee.com/xqb_dpx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=xqb_dpx&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
