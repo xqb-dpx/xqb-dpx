@@ -6,11 +6,11 @@
 
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***Projects***
 
-1. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [***`C-SHARK`***](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
+1. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [**`C-SHARK`**](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
 - > Bypassing :heartpulse: Iran's Internet Sanctions (at least).
-2. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> ***`SQ-LION`***
+2. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> **`SQ-LION`**
 - > SQL's Integrated Development Editor.
-3. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> ***`FLO-WOLF`***
+3. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> **`FLO-WOLF`**
 - > Electronic Circuit Simulator (calculation, design and output display). 
 
 ---
