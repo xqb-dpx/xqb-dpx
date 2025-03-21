@@ -3,8 +3,8 @@ class Code {
         /* b‿daarr */
         // Quasar
 
-        System.out.println("C-Shark");
-        System.out.println("SQ-Lion");
-        System.out.println("FLO-Wolf");
+        System.out.println("C-SHARK");
+        System.out.println("SQ-LION");
+        System.out.println("FLO-WOLF");
     }
 }
