@@ -20,7 +20,7 @@
 
 ### 1. **Software**
    
-> ### 1-1. Programming
+> #### 1-1. Programming
 
 - `P` `y` `t` `h` `o` `n`
 - `C` `+` `+`
@@ -39,7 +39,7 @@
 - `J` `a` `v` `a` `S` `c` `r` `i` `p` `t`
 - `M` `a` `r` `k` `d` `o` `w` `n`
 
-##### 1-2. OS Platforms
+> #### 1-2. OS Platforms
 
 - Windows
 
@@ -49,14 +49,14 @@
 
 ### 2. **Hardware**
 
-##### 2-1. Circuit Design
-##### 2-2. Hardware Programming
+> #### 2-1. Circuit Design
+> #### 2-2. Hardware Programming
 
 - Microcontroller `IoT, Module and Circuits`
 
 ### 3. **Network**
 
-##### 3-1. Cyber Security
+> #### 3-1. Cyber Security
 
 - Network+
 - Certified Ethical Hacker (CEH)
