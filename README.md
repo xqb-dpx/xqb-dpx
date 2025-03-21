@@ -18,7 +18,7 @@
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***My World***
 <br />
 
-### 1. Software
+### 1. **Software**
    
 ##### 1-1. Programming
 
@@ -47,14 +47,14 @@
 
 - Android
 
-### 2. Hardware
+### 2. **Hardware**
 
 ##### 2-1. Circuit Design
 ##### 2-2. Hardware Programming
 
 - Microcontroller `IoT, Module and Circuits`
 
-### 3. Network
+### 3. **Network**
 
 ##### 3-1. Cyber Security
 
