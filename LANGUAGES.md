@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
 - `M` `a` `r` `k` `d` `o` `w` `n`
 ```md
 <!-- b‿daarr -->
-\[Quasar\]
+[Quasar]: #()
 
 - C-SHARK
 - SQ-LION
