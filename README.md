@@ -1,5 +1,3 @@
-<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/footer.svg" style="width: 100%;" />
-
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***About me***
 
 > *My nickname is b‿daarr (in Persian means 'being awake')*
