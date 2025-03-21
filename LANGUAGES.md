@@ -1,3 +1,13 @@
+- `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`
+```cmd
+:: b‿daarr
+:: Quasar
+
+ECHO C-SHARK
+ECHO SQ-LION
+ECHO FLO-WOLF
+PAUSE
+```
 - `P` `o` `w` `e` `r` `S` `h` `e` `l` `l`
 ```ps1
 <# b‿daarr #>
@@ -39,9 +49,14 @@ print("FLO-WOLF")
 ```
 - `B` `a` `t` `c` `h`
 ```bat
+@ECHO OFF
+REM b‿daarr
+REM Quasar
 
-```
-```cmd
+ECHO C-Shark
+ECHO SQ-Lion
+ECHO FLO-Wolf
+PAUSE
 ```
 - `J` `s` `o` `n`
 ```json
