@@ -1,5 +1,5 @@
 <!-- b?daarr -->
-\[Quasar\]
+[Quasar]: #()
 
 <!-- C-Shark
 
