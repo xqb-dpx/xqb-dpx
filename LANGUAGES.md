@@ -24,17 +24,22 @@ document.addEventListener('DOMContentLoaded', () => {
 <!-- b‿daarr -->
 \[Quasar\]
 
-<!-- C-Shark
-
-	 SQ-Lion
-
-	 FLO-Wolf -->
+- C-SHARK
+- SQ-LION
+- FLO-WOLF
 ```
 - `P` `y` `t` `h` `o` `n`
 ```py
+""" b‿daarr """
+# Quasar
+
+print("C-SHARK")
+print("SQ-LION")
+print("FLO-WOLF")
 ```
 - `B` `a` `t` `c` `h`
 ```bat
+
 ```
 ```cmd
 ```
