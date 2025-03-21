@@ -56,6 +56,8 @@
 
 1-2. **OS Platforms**
 
-Windows | Linux | Android
+- Windows
 
-- `LPIC`
+- Linux `LPIC`
+
+- Android
