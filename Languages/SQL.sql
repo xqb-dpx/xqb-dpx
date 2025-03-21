@@ -1,5 +1,6 @@
 /* b‿daarr */
--- Quasar 
+-- Quasar
+
 USE Program;
 
 SELECT 'C-SHARK', 'SQ-LION', 'FLO-WOLF'
