@@ -24,28 +24,20 @@
 - ```p``` ```y``` ```t``` ```h``` ```o``` ```n``` [^1]
 [^1]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
 
-+ ```c``` ```+``` ```+``` [^2]
+- ```c``` ```+``` ```+``` [^2]
 [^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
 
-+ ```j``` ```a``` ```v``` ```a``` [^3]
+- ```j``` ```a``` ```v``` ```a``` [^3]
 [^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
 
-+ ```c``` ```#``` [^4]
+- ```c``` ```#``` [^4]
 [^4]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%23.cs)
 
-+ ```q``` ```#``` [^5]
+- ```q``` ```#``` [^5]
 [^5]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Q%23.qs)
 
-+ ```f``` ```#```
-
-```fs
-(* b‿daarr *)
-// Quasar 
-
-printfn "C-Shark"
-printfn "SQ-Lion"
-printfn "FLO-Wolf"
-```
+- ```f``` ```#``` [^6]
+[^6]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/F%23.fs)
 
 + ```s``` ```q``` ```l```
 
