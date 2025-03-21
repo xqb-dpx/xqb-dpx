@@ -1,4 +1,4 @@
 /* b‿daarr */
 -- Quasar 
 
-SELECT 'C-Shark', 'SQ-Lion', 'FLO-Wolf';
+SELECT 'C-SHARK', 'SQ-LION', 'FLO-WOLF';
