@@ -21,28 +21,21 @@
 | Software | Hardware | Network | Windows | Linux | Android | Cyber Security | Programming |
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
-- [```P``` ```y``` ```t``` ```h``` ```o``` ```n```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py) |
+- [```P``` ```y``` ```t``` ```h``` ```o``` ```n```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
 
-- ```C``` ```+``` ```+``` [^2]
-[^2]: [*`C++ `*](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
+- [```C``` ```+``` ```+```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
 
-- ```J``` ```a``` ```v``` ```a``` [^3]
-[^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
+- [```J``` ```a``` ```v``` ```a```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
 
-- ```C``` ```#``` [^4]
-[^4]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%23.cs)
+- [```C``` ```#```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%23.cs)
 
-- ```Q``` ```#``` [^5]
-[^5]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Q%23.qs)
+- [```Q``` ```#```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Q%23.qs)
 
-- ```F``` ```#``` [^6]
-[^6]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/F%23.fs)
+- [```F``` ```#```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/F%23.fs)
 
-+ ```S``` ```Q``` ```L``` [^7]
-[^7]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/SQL.sql)
++ [```S``` ```Q``` ```L```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/SQL.sql)
 
-+ ```P``` ```H``` ```P``` [^8]
-[^8]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/PHP.php)
++ [```P``` ```H``` ```P```](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/PHP.php)
 
 + ```j``` ```s``` ```o``` ```n```
 
