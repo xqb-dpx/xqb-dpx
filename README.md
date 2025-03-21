@@ -251,11 +251,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	 FLO-Wolf -->
 ```
-
----
-
-<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0000-2917-2015" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">
-     <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/>
-      https://orcid.org/0009-0000-2917-2015
-    </a>
-    <a href="https://www.buymeacoffee.com/xqb_dpx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=xqb_dpx&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
