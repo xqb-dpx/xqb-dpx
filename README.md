@@ -21,11 +21,13 @@
 | Software | Hardware | Network | Windows | Linux | Android | Cyber Security | Programming |
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
-- ```P``` ```y``` ```t``` ```h``` ```o``` ```n``` [^1]
-[^1]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
+| Language | File Format | Sample |
+|---|---|---|
+| Python | .py | [Python.py](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py) |
+- ```P``` ```y``` ```t``` ```h``` ```o``` ```n```
 
 - ```C``` ```+``` ```+``` [^2]
-[^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
+[^2]: [*`C++ `*](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
 
 - ```J``` ```a``` ```v``` ```a``` [^3]
 [^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
