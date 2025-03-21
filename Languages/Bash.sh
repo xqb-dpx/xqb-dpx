@@ -2,6 +2,6 @@
 # b‿daarr
 # Quasar
 
-printf "C-Shark"
-printf "SQ-Lion"
-printf "FLO-Wolf"
+printf "C-SHARK"
+printf "SQ-LION"
+printf "FLO-WOLF"
