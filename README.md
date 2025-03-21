@@ -21,45 +21,29 @@
 | Software | Hardware | Network | Windows | Linux | Android | Cyber Security | Programming |
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
-- ```p``` ```y``` ```t``` ```h``` ```o``` ```n``` [^1]
+- ```P``` ```y``` ```t``` ```h``` ```o``` ```n``` [^1]
 [^1]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
 
-- ```c``` ```+``` ```+``` [^2]
+- ```C``` ```+``` ```+``` [^2]
 [^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
 
-- ```j``` ```a``` ```v``` ```a``` [^3]
+- ```J``` ```a``` ```v``` ```a``` [^3]
 [^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
 
-- ```c``` ```#``` [^4]
+- ```C``` ```#``` [^4]
 [^4]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%23.cs)
 
-- ```q``` ```#``` [^5]
+- ```Q``` ```#``` [^5]
 [^5]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Q%23.qs)
 
-- ```f``` ```#``` [^6]
+- ```F``` ```#``` [^6]
 [^6]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/F%23.fs)
 
-+ ```s``` ```q``` ```l```
++ ```S``` ```Q``` ```L``` [^7]
+[^7]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/SQL.sql)
 
-```sql
-/* b‿daarr */
--- Quasar 
-
-SELECT 'C-Shark', 'SQ-Lion', 'FLO-Wolf';
-```
-
-+ ```p``` ```h``` ```p```
-
-```php
-<?php
-/* b‿daarr */
-// Quasar
-
-echo "C-Shark";
-echo "SQ-Lion";
-echo "FLO-Wolf";
-?>
-```
++ ```P``` ```H``` ```P``` [^8]
+[^8]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/PHP.php)
 
 + ```j``` ```s``` ```o``` ```n```
 
