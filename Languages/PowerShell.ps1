@@ -1,6 +1,6 @@
-﻿<# b‿daarr #>
+<# b‿daarr #>
 # Quasar
 
-Write-Output "C-Shark"
-Write-Output "SQ-Lion"
-Write-Output "FLO-Wolf"
+Write-Output "C-SHARK"
+Write-Output "SQ-LION"
+Write-Output "FLO-WOLF"
