@@ -1,6 +1,6 @@
 (* b‿daarr *)
 // Quasar 
 
-printfn "C-Shark"
-printfn "SQ-Lion"
-printfn "FLO-Wolf"
+printfn "C-SHARK"
+printfn "SQ-LION"
+printfn "FLO-WOLF"
