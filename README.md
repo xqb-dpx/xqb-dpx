@@ -1,7 +1,6 @@
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***About me***
 
-> *My nickname is b‿daarr (in Persian means 'being awake') a part of Quasar Company* [^1]
-[^1]: ()
+> *My nickname is b‿daarr (in Persian means 'being awake') a part of [Quasar Company](#)*
 
 ---
 
@@ -22,42 +21,14 @@
 | Software | Hardware | Network | Windows | Linux | Android | Cyber Security | Programming |
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
-- ```p``` ```y``` ```t``` ```h``` ```o``` ```n``` [^Python]
-[^Python]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
+- ```p``` ```y``` ```t``` ```h``` ```o``` ```n``` [^1]
+[^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
 
-+ ```c``` ```+``` ```+```
++ ```c``` ```+``` ```+``` [^2]
+[^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
 
-```cpp
-#include <iostream>
-using namespace Code;
-
-class Code {
-static:
-    void main() {
-        /* b‿daarr */
-        // Quasar
-
-        cout << "C-Shark" << endl;
-        cout << "SQ-Lion" << endl;
-        cout << "FLO-Wolf" << endl;
-    }
-};
-```
-
-+ ```j``` ```a``` ```v``` ```a```
-
-```java
-class Code {
-    static void main(String[] args) {
-        /* b‿daarr */
-        // Quasar
-
-        System.out.println("C-Shark");
-        System.out.println("SQ-Lion");
-        System.out.println("FLO-Wolf");
-    }
-}
-```
++ ```j``` ```a``` ```v``` ```a``` [^3]
+  [^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
 
 + ```c``` ```#```
 
