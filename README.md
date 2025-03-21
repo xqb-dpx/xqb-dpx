@@ -22,53 +22,19 @@
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
 - ```p``` ```y``` ```t``` ```h``` ```o``` ```n``` [^1]
-[^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
+[^1]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
 
 + ```c``` ```+``` ```+``` [^2]
 [^2]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%2B%2B.cpp)
 
 + ```j``` ```a``` ```v``` ```a``` [^3]
-  [^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
+[^3]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Java.java)
 
-+ ```c``` ```#```
++ ```c``` ```#``` [^4]
+[^4]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/C%23.cs)
 
-```cs
-using System;
-
-namespace Code
-{
-    class Code
-    {
-        static void Main()
-        {
-            /* b‿daarr */
-            // Quasar
-
-            Console.WriteLine("C-Shark");
-            Console.WriteLine("SQ-LION");
-            Console.WriteLine("FLO-Wolf");
-        }
-    }
-}
-```
-
-+ ```q``` ```#```
-
-```qs
-namespace Code {
-    open Microsoft.Quantum.Canon;
-    open Microsoft.Quantum.Intrinsic;
-
-    operation Code() : Unit {
-        // b‿daarr
-        // Quasar
-
-        Message("C-Shark");
-        Message("SQ-Lion");
-        Message("FLO-Wolf");
-    }
-}
-```
++ ```q``` ```#``` [^5]
+[^5]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Q%23.qs)
 
 + ```f``` ```#```
 
