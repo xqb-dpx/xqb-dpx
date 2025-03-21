@@ -1,2 +1,6 @@
 """ b‿daarr """
-# Python
+# Quasar
+
+print("C-SHARK")
+print("SQ-LION")
+print("FLO-WOLF")
