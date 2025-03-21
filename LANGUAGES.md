@@ -116,22 +116,94 @@ printf "FLO-WOLF"
 ```
 - `C` `+` `+`
 ```cpp
+#include <iostream>
+using namespace Code;
+
+class Code {
+static:
+    void main() {
+        /* b‿daarr */
+        // Quasar
+
+        cout << "C-SHARK" << endl;
+        cout << "SQ-LION" << endl;
+        cout << "FLO-WOLF" << endl;
+    }
+};
 ```
 - `S` `Q` `L`
 ```sql
+/* b‿daarr */
+-- Quasar
+
+USE Program_DB;
+
+SELECT 'C-SHARK', 'SQ-LION', 'FLO-WOLF'
+FROM Code;
 ```
 - `P` `H` `P`
 ```php
+<?php
+/* b‿daarr */
+// Quasar
+
+echo "C-SHARK";
+echo "SQ-LION";
+echo "FLO-WOLF";
+?>
 ```
 - `C` `S` `S`
 ```css
+/* b‿daarr */
+/* Quasar */
+
+.project {
+    color: black;
+    font-weight: bold;
+}
 ```
 - `C` `#`
 ```cs
+using System;
+
+namespace Code
+{
+    class Code
+    {
+        static void Main()
+        {
+            /* b‿daarr */
+            // Quasar
+
+            Console.WriteLine("C-SHARK");
+            Console.WriteLine("SQ-LION");
+            Console.WriteLine("FLO-WOLF");
+        }
+    }
+}
 ```
 - `Q` `#`
 ```qs
+namespace Code {
+    open Microsoft.Quantum.Canon;
+    open Microsoft.Quantum.Intrinsic;
+
+    operation Code() : Unit {
+        // b‿daarr
+        // Quasar
+
+        Message("C-SHARK");
+        Message("SQ-LION");
+        Message("FLO-WOLF");
+    }
+}
 ```
 - `F` `#`
 ```fs
+(* b‿daarr *)
+// Quasar 
+
+printfn "C-SHARK"
+printfn "SQ-LION"
+printfn "FLO-WOLF"
 ```
