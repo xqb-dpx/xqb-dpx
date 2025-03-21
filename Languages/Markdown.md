@@ -1,8 +1,6 @@
 <!-- b?daarr -->
 [Quasar]: #()
 
-<!-- C-Shark
-
-	 SQ-Lion
-
-	 FLO-Wolf -->
+- C-SHARK
+- SQ-LION
+- FLO-WOLF
