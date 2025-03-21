@@ -1,8 +1,8 @@
-@echo off
+@ECHO OFF
 REM b‿daarr
-:: Quasar
+REM Quasar
 
-echo C-Shark
-echo SQ-Lion
-echo FLO-Wolf
-pause
+ECHO C-Shark
+ECHO SQ-Lion
+ECHO FLO-Wolf
+PAUSE
