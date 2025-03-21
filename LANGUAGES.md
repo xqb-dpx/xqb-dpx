@@ -60,15 +60,59 @@ PAUSE
 ```
 - `J` `s` `o` `n`
 ```json
+{
+    "comment" : [
+    {
+        "_me" : "b‿daarr",
+        "_company" : "Quasar",
+    }]
+
+    "project_01" : "C-SHARK",
+    "project_02" : "SQ-LION",
+    "project_03" : "FLO-WOLF"
+}
 ```
 - `J` `a` `v` `a`
 ```java
+class Code {
+    static void main(String[] args) {
+        /* b‿daarr */
+        // Quasar
+
+        System.out.println("C-SHARK");
+        System.out.println("SQ-LION");
+        System.out.println("FLO-WOLF");
+    }
+}
 ```
 - `B` `a` `s` `h`
 ```sh
+#!/bin/bash
+# b‿daarr
+# Quasar
+
+printf "C-SHARK"
+printf "SQ-LION"
+printf "FLO-WOLF"
 ```
 - `H` `T` `M` `L`
 ```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web</title>
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+    <div class="project-01">C-SHARK</div>
+    <div class="project-02">SQ-LION</div>
+    <div class="project-03">FLO-WOLF</div>
+
+    <script src="JavaScript.js"></script>
+</body>
+</html>
 ```
 - `C` `+` `+`
 ```cpp
