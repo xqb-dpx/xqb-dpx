@@ -47,6 +47,10 @@
 
 - Android
 
+> #### 1-3. Graphic Design
+
+- Adobe Photoshop
+
 ### 2. **Hardware**
 
 > #### 2-1. Circuit Design
