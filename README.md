@@ -6,17 +6,12 @@
 
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***Projects***
 
-1. **`C-SHARK`**:
+1. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> ***`C-SHARK`***:
 - > Bypassing :heartpulse: Iran's Internet Sanctions (at least).
-2. **`SQ-LION`**:
+2. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> ***`SQ-LION`***:
 - > Integrated Development Editor of Structured Query Language.
-3. **`FLO-WOLF`**:
+3. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> ***`FLO-WOLF`***:
 - > Electronic Circuit Simulator (calculation, design and output display). 
-
-| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> |
-|---|---|---|
-| [`C-SHARK`](https://github.com/xqb-dpx/C-SHARK/) | `SQ-LION` | `FLO-WOLF` |
-
 
 ---
 
