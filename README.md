@@ -18,8 +18,8 @@
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***My World***
 <br />
 
-| Software | Hardware | Network | Windows | Linux | Android | Cyber Security | [Programming]() |
-|----------|----------|---------|---------|-------|---------|----------------|-------------|
+1. **Software** | Hardware | Network | Windows | Linux | Android | Cyber Security | [Programming]()
+1-1. Programming
 
 - ```P``` ```y``` ```t``` ```h``` ```o``` ```n```
 
