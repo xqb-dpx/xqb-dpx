@@ -9,9 +9,9 @@ namespace Code
             /* b‿daarr */
             // Quasar
 
-            Console.WriteLine("C-Shark");
+            Console.WriteLine("C-SHARK");
             Console.WriteLine("SQ-LION");
-            Console.WriteLine("FLO-Wolf");
+            Console.WriteLine("FLO-WOLF");
         }
     }
 }
