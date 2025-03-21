@@ -18,7 +18,7 @@
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***My World***
 <br />
 
-1. **Software** | Hardware | Network |  | Cyber Security
+1. ### Software | Hardware | Network |  | Cyber Security
    
 1-1. Programming
 
