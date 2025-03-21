@@ -8,17 +8,66 @@ Write-Output "SQ-LION"
 Write-Output "FLO-WOLF"
 ```
 - `J` `a` `v` `a` `S` `c` `r` `i` `p` `t`
+```js
+/* b‿daarr */
+// Quasar
+
+document.addEventListener('DOMContentLoaded', () => {
+    const projects = document.querySelector('h1');
+    projects.forEach(projects => {
+        console.log(projects.className);
+    });
+});
+```
 - `M` `a` `r` `k` `d` `o` `w` `n`
+```md
+<!-- b‿daarr -->
+\[Quasar\]
+
+<!-- C-Shark
+
+	 SQ-Lion
+
+	 FLO-Wolf -->
+```
 - `P` `y` `t` `h` `o` `n`
+```py
+```
 - `B` `a` `t` `c` `h`
+```bat
+```
+```cmd
+```
 - `J` `s` `o` `n`
+```json
+```
 - `J` `a` `v` `a`
+```java
+```
 - `B` `a` `s` `h`
+```sh
+```
 - `H` `T` `M` `L`
+```html
+```
 - `C` `+` `+`
+```cpp
+```
 - `S` `Q` `L`
+```sql
+```
 - `P` `H` `P`
+```php
+```
 - `C` `S` `S`
+```css
+```
 - `C` `#`
+```cs
+```
 - `Q` `#`
+```qs
+```
 - `F` `#`
+```fs
+```
