@@ -18,9 +18,9 @@
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***My World***
 <br />
 
-1. ### Software
+### 1. Software
    
-1-1. ##### Programming
+##### 1-1. Programming
 
 - `P` `y` `t` `h` `o` `n`
 - `C` `+` `+`
@@ -39,7 +39,7 @@
 - `J` `a` `v` `a` `S` `c` `r` `i` `p` `t`
 - `M` `a` `r` `k` `d` `o` `w` `n`
 
-1-2. ##### OS Platforms**
+##### 1-2. OS Platforms
 
 - Windows
 
@@ -47,16 +47,16 @@
 
 - Android
 
-2. ## Hardware
+### 2. Hardware
 
-2-1. ##### Circuit Design
-2-2. ##### Hardware Programming
+##### 2-1. Circuit Design
+##### 2-2. Hardware Programming
 
 - Microcontroller `IoT, Module and Circuits`
 
-3. ## Network
+### 3. Network
 
-3-1. ##### Cyber Security
+##### 3-1. Cyber Security
 
 - Network+
 - Certified Ethical Hacker (CEH)
