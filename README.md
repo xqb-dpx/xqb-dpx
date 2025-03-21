@@ -4,6 +4,8 @@
 
 > *My nickname is b‿daarr (in Persian means 'being awake')*
 
+---
+
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***Projects***
 
 1. <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> ***`C-SHARK`***:
