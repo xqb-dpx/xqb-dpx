@@ -13,7 +13,7 @@
 3. **`FLO-WOLF`**:
 - > Electronic Circuit Simulator (calculation, design and output display). 
 
-| ![C-SHARK](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png) | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> |
+| <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> | <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> |
 |---|---|---|
 | [`C-SHARK`](https://github.com/xqb-dpx/C-SHARK/) | `SQ-LION` | `FLO-WOLF` |
 
