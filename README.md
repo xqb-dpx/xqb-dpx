@@ -20,7 +20,7 @@
 
 ### 1. **Software**
    
-##### 1-1. Programming
+> ##### 1-1. Programming
 
 - `P` `y` `t` `h` `o` `n`
 - `C` `+` `+`
