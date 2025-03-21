@@ -20,7 +20,7 @@
 
 ### 1. **Software**
    
-> #### 1-1. Programming
+> #### 1-1. [Programming](https://github.com/xqb-dpx/xqb-dpx/blob/main/LANGUAGES.md)
 
 - `P` `o` `w` `e` `r` `S` `h` `e` `l` `l`
 - `J` `a` `v` `a` `S` `c` `r` `i` `p` `t`
