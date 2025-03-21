@@ -22,16 +22,8 @@
 | Software | Hardware | Network | Windows | Linux | Android | Cyber Security | Programming |
 |----------|----------|---------|---------|-------|---------|----------------|-------------|
 
-+ ```p``` ```y``` ```t``` ```h``` ```o``` ```n```
-
-```py
-""" b‿daarr """
-# Quasar
-
-print("C-Shark")
-print("SQ-Lion")
-print("FLO-Wolf")
-```
+- ```p``` ```y``` ```t``` ```h``` ```o``` ```n``` [^Python]
+[^Python]: (https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages/Python.py)
 
 + ```c``` ```+``` ```+```
 
