@@ -7,8 +7,8 @@ static:
         /* b‿daarr */
         // Quasar
 
-        cout << "C-Shark" << endl;
-        cout << "SQ-Lion" << endl;
-        cout << "FLO-Wolf" << endl;
+        cout << "C-SHARK" << endl;
+        cout << "SQ-LION" << endl;
+        cout << "FLO-WOLF" << endl;
     }
 };
