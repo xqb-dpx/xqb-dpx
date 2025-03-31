@@ -66,3 +66,5 @@
 
 - Network+
 - Certified Ethical Hacker (CEH)
+
+![footer](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource%2Ffooter.svg)
