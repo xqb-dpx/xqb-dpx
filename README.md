@@ -6,7 +6,7 @@
 
 <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***Projects***
 
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /><button>Test</button> [**`C-SHARK`**](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
+- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [**`C-SHARK`**](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
     - > Bypassing :heartpulse: Iran's Internet Sanctions (at least).
 - <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> **`SQ-LION`**
     - > SQL's Integrated Development Editor.
