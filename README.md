@@ -22,7 +22,7 @@
    
 > #### 1-1. [Programming](https://github.com/xqb-dpx/xqb-dpx/blob/main/LANGUAGES.md)
 
-> - `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`
+- `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`
 - `P` `o` `w` `e` `r` `S` `h` `e` `l` `l`
 - `J` `a` `v` `a` `S` `c` `r` `i` `p` `t`
 - `M` `a` `r` `k` `d` `o` `w` `n`
