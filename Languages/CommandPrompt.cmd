@@ -1,3 +1,4 @@
+@ECHO OFF
 :: b‿daarr
 :: Quasar
 
