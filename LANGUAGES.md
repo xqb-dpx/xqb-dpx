@@ -162,6 +162,17 @@ echo "FLO-WOLF";
     font-weight: bold;
 }
 ```
+- `C` `M` `D`
+```cmd
+@ECHO OFF
+:: b‿daarr
+:: Quasar
+
+ECHO C-Shark
+ECHO SQ-Lion
+ECHO FLO-Wolf
+PAUSE
+```
 - `C` `#`
 ```cs
 using System;
