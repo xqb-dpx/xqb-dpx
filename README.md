@@ -13,8 +13,9 @@
 - <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> **`FLO-WOLF`**
     - > Electronic Circuit Simulator (calculation, design and output display).
 
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/dn-spider.png" style="width: 48px; height: 48px;"/> **`DN-SPIDER`**
-    -> DNS System Settings and Configuration
+- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/dn-spider.png" style="width: 48px; height: 48px;"/> 
+**`DN-SPIDER`**
+    - > DNS System Settings and Configuration
 
 ---
 
