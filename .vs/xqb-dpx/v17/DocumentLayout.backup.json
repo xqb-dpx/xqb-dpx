@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "D:\\Git\\xqb-dpx\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAYAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-16T14:25:04.318Z",
               "EditorCaption": ""
@@ -51,7 +55,8 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-16T14:13:16.741Z"
+              "WhenOpened": "2025-05-16T14:13:16.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +68,8 @@
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-16T14:16:22.965Z"
+              "WhenOpened": "2025-05-16T14:16:22.965Z",
+              "EditorCaption": ""
             }
           ]
         }

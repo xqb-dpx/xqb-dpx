@@ -1,10 +1,10 @@
-![***About me***](https://github.com/xqb-dpx/xqb-dpx/blob/main/index.html)
+***About me***
 
 > *My nickname is b‿daarr (in Persian means 'being awake' !).*
 
 ---
 
-![***Projects***](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png)
+***Projects***
 
 - <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [**`C-SHARK`**](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
     - > Bypassing :heartpulse: Iran's Internet Sanctions (at least).
@@ -20,8 +20,7 @@
 
 ---
 
-![***My World***](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png)
-<br />
+***My World***
 
 ### 1. **Software**
    
