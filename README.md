@@ -1,4 +1,4 @@
-<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***About me***
+![***About me***](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png)
 
 > *My nickname is b‿daarr (in Persian means 'being awake' !).*
 
