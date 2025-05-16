@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***Projects***
+![***Projects***](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png)
 
 - <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [**`C-SHARK`**](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
     - > Bypassing :heartpulse: Iran's Internet Sanctions (at least).
@@ -20,7 +20,7 @@
 
 ---
 
-<img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png" style="width: 48px; height: 48px;" /> ***My World***
+![***My World***](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png)
 <br />
 
 ### 1. **Software**
