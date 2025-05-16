@@ -1,4 +1,4 @@
-![***About me***](https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/quasar.png)
+![***About me***](https://github.com/xqb-dpx/xqb-dpx/blob/main/index.html)
 
 > *My nickname is b‿daarr (in Persian means 'being awake' !).*
 
