@@ -1,4 +1,4 @@
-- < `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t` >
+- `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`
 ```cmd
 :: b‿daarr
 :: Quasar
