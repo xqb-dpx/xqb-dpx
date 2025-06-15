@@ -1,5 +1,3 @@
-# **Victory is with my homeland, 🇮🇷❤️Iran.**
-
 # ***About me***
 
 > *My nickname is b‿daarr (in Persian means 'being awake' !).*
