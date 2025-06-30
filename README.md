@@ -6,7 +6,8 @@
 
 # ***Projects***
 
-<details><summary>![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/bear.png) WeBear</summary>
+- ![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/bear.png)
+<details><summary>WeBear</summary>
    - test
 </details>
 
