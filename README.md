@@ -6,18 +6,6 @@
 
 # ***Projects***
 
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> **`C-SHARK`**
-    - > 
-
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> **`SQ-LION`**
-    - > SQL's Integrated Development Editor.
-
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/flo-wolf.png" style="width: 48px; height: 48px;" /> **`FLO-WOLF`**
-    - > Electronic Circuit Simulator (calculation, design and output display).
-
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/dn-spider.png" style="width: 48px; height: 48px;" /> **`DN-SPIDER`**
-    - > Bypassing :heartpulse: Iran's Internet Sanctions (at least); (DNS System Settings and Configuration)
-
 ---
 
 # ***My World***
