@@ -10,19 +10,24 @@
 <details><summary>Messenger</summary>
 </details>
 
-![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/lion.png) **`SqLion`**
+![lion](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/lion.png) **`SqLion`**
 <details><summary>Code Editor</summary>
 </details>
 
-![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/shark.png) **`CShark`**
+![shark](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/shark.png) **`CShark`**
 <details><summary>Virtual Private Network</summary>
 </details>
 
-![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/spider.png) **`DnSpider`**
+![spider](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/spider.png) **`DnSpider`**
 <details><summary>Domain Naming System</summary>
 </details>
 
-![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/wolf.png) **`FloWolf`**
+![turtle](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/turtle.png) **`PiloTurtle`**
+<details><summary>Circuit Emulator and Designer</summary>
+</details>
+
+
+![wolf](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/wolf.png) **`FloWolf`**
 <details><summary>Circuit Emulator and Designer</summary>
 </details>
 
