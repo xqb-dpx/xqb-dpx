@@ -6,8 +6,8 @@
 
 # ***Projects***
 
-- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [**`C-SHARK`**](https://github.com/xqb-dpx/C-SHARK/blob/main/README.md#c-shark)
-    - > Bypassing :heartpulse: Iran's Internet Sanctions (at least).
+- <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/c-shark.png" style="width: 48px; height: 48px;" /> [**`C-SHARK`**]()
+    - > 
 
 - <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/sq-lion.png" style="width: 48px; height: 48px;" /> **`SQ-LION`**
     - > SQL's Integrated Development Editor.
@@ -16,7 +16,7 @@
     - > Electronic Circuit Simulator (calculation, design and output display).
 
 - <img src="https://github.com/xqb-dpx/xqb-dpx/blob/main/resource/dn-spider.png" style="width: 48px; height: 48px;" /> **`DN-SPIDER`**
-    - > DNS System Settings and Configuration.
+    - > Bypassing :heartpulse: Iran's Internet Sanctions (at least); (DNS System Settings and Configuration)
 
 ---
 
