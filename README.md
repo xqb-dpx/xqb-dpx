@@ -1,6 +1,6 @@
 ### **About me**
 
-> *My nickname is b‿daarr (in Persian means 'being awake' !).*
+> *My nickname is b‿daarr (in Persian means 'being awake!').*
 
 ---
 
