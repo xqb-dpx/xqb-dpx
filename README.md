@@ -6,6 +6,8 @@
 
 # ***Projects***
 
+- [![bear](https://github.com/xqb-dpx/xqb-dpx/tree/main/img/icons/bear.png)]
+
 ---
 
 # ***My World***
