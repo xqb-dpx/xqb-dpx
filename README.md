@@ -1,10 +1,10 @@
-# ***About me***
+### **About me**
 
 > *My nickname is b‿daarr (in Persian means 'being awake' !).*
 
 ---
 
-# ***Projects***
+### **Projects**
 
 ![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/bear.png) **`WeBear`**
 <details><summary>Messenger</summary>
@@ -28,11 +28,11 @@
 
 ---
 
-# ***My World***
+### **My World**
 
-### 1. **Software**
+#### 1. **Software**
    
-> #### 1-1. [Programming](https://github.com/xqb-dpx/xqb-dpx/blob/main/LANGUAGES.md)
+> ##### 1-1. [Programming](https://github.com/xqb-dpx/xqb-dpx/blob/main/LANGUAGES.md)
 
 - `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`
 - `P` `o` `w` `e` `r` `S` `h` `e` `l` `l`
@@ -53,7 +53,7 @@
 - `Q` `#`
 - `F` `#`
 
-> #### 1-2. OS Platforms
+> ##### 1-2. OS Platforms
 
 - Windows
 
@@ -61,21 +61,21 @@
 
 - Android
 
-> #### 1-3. Graphic Design
+> ##### 1-3. Graphic Design
 
 - Adobe Photoshop
 
-### 2. **Hardware**
+#### 2. **Hardware**
 
-> #### 2-1. Circuit Design
+> ##### 2-1. Circuit Design
 
-> #### 2-2. Hardware Programming
+> ##### 2-2. Hardware Programming
 
 - Microcontroller `IoT, Module and Circuits`
 
-### 3. **Network**
+#### 3. **Network**
 
-> #### 3-1. Cyber Security
+> ##### 3-1. Cyber Security
 
 - Network+
 - Certified Ethical Hacker (CEH)
