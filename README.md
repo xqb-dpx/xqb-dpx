@@ -7,8 +7,7 @@
 # ***Projects***
 
 - ![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/bear.png) **`WeBear`**
-<details>
-   - test
+<details><summary>Messenger</summary>
 </details>
 
 ---
