@@ -23,7 +23,7 @@
 </details>
 
 ![turtle](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/turtle.png) **`PiloTurtle`**
-<details><summary>Circuit Emulator and Designer</summary>
+<details><summary>AI Pilot</summary>
 </details>
 
 
