@@ -1,5 +1,4 @@
-<details>- `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`</details>
-<summary>
+- `C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`
 ```cmd
 :: b‿daarr
 :: Quasar
@@ -9,7 +8,6 @@ ECHO SQ-LION
 ECHO FLO-WOLF
 PAUSE
 ```
-</summary>
 - `P` `o` `w` `e` `r` `S` `h` `e` `l` `l`
 ```ps1
 <# b‿daarr #>
