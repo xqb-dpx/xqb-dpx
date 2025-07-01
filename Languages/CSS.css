@@ -16,6 +16,6 @@
 
 .message::hover {
     padding: 10px;
-    border-radius: 2px;
+    border-radius: 10px;
     background: linear-gradient(to right, #00c6ff, #0072ff0);
 }
