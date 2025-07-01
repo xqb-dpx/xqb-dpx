@@ -2,21 +2,18 @@
 /* scss */
 
 .message {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-size: 2.5rem;
-    font-weight: bold;
     color: #3a3a3a;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-    position: relative;
-    margin-bottom: 1rem;
-  
-  &::after {
-    content: '';
     position: absolute;
-    bottom: -6px;
-    left: 0;
-    width: 40px;
-    height: 3px;
-    background: linear-gradient(to right, #00c6ff, #0072ff0);
-    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color 0.5s ease-in-out;
+    
+    &::after {
+        padding: 10px;
+        border-radius: 10px;
   }
 }
