@@ -6,31 +6,9 @@
 
 ### **Projects**
 
-![bear](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/bear.png) **`WeBear`**
-<details><summary>Messenger</summary>
-</details>
+**`WeBear`**
 
-![lion](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/lion.png) **`SqLion`**
-<details><summary>Code Editor</summary>
-</details>
-
-![shark](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/shark.png) **`CShark`**
-<details><summary>Virtual Private Network</summary>
-</details>
-
-![spider](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/spider.png) **`DnSpider`**
-<details><summary>Domain Naming System</summary>
-</details>
-
-![turtle](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/turtle.png) **`PiloTurtle`**
-<details><summary>AI Pilot</summary>
-</details>
-
-
-![wolf](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/icons/wolf.png) **`FloWolf`**
-<details><summary>Circuit Emulator and Designer</summary>
-</details>
-
+**`SqLion` `CShark` `DnSpider` `PiloTurtle` `FloWolf`**
 ---
 
 ### **My World**
