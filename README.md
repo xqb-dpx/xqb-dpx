@@ -4,13 +4,6 @@
 
 ---
 
-### **Projects**
-
-**`WeBear`**
-
-**`SqLion` `CShark` `DnSpider` `PiloTurtle` `FloWolf`**
----
-
 ### **My World**
 
 #### 1. **Software**
