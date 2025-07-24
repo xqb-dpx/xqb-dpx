@@ -10,7 +10,7 @@
    
 > ##### 1-1. Programming
 
-- [`C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages%2FBash.sh)
+- [`C` `o` `m` `m` `a` `n` `d` `P` `r` `o` `m` `p` `t`]()
 - `P` `o` `w` `e` `r` `S` `h` `e` `l` `l`
 - `J` `a` `v` `a` `S` `c` `r` `i` `p` `t`
 - `M` `a` `r` `k` `d` `o` `w` `n`
@@ -18,7 +18,7 @@
 - `B` `a` `t` `c` `h`
 - `J` `s` `o` `n`
 - `J` `a` `v` `a`
-- `B` `a` `s` `h`
+- [`B` `a` `s` `h`](https://github.com/xqb-dpx/xqb-dpx/blob/main/Languages%2FBash.sh)
 - `H` `T` `M` `L`
 - `C` `+` `+`
 - `S` `Q` `L`
