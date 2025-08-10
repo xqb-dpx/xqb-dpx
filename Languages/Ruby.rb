@@ -1,6 +1,6 @@
 # Ruby
 =begin
-ruby
+rb
 =end
 
 print "Hello World!"
