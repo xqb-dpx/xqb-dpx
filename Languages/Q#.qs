@@ -4,7 +4,7 @@ namespace Code {
 
     operation Code() : Unit {
         // Q#
-        // qsharp
+        // qs
 
         Message("Hello World!");
     }
