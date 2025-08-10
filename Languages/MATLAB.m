@@ -1,7 +1,7 @@
 % MATLAB
 
 %{
-matlab
+m
 %}
 
 fprintf('Hello World!');
