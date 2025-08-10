@@ -3,11 +3,9 @@ namespace Code {
     open Microsoft.Quantum.Intrinsic;
 
     operation Code() : Unit {
-        // b‿daarr
-        // Quasar
+        // Q#
+        // qsharp
 
-        Message("C-SHARK");
-        Message("SQ-LION");
-        Message("FLO-WOLF");
+        Message("Hello World!");
     }
 }
