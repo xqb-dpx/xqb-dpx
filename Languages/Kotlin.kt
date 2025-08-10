@@ -1,4 +1,4 @@
 // Kotlin
-/* kotlin */
+/* kt */
 
 print("Hello World!")
