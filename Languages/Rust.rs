@@ -1,4 +1,4 @@
 // Rust
-/* rust */
+/* rs */
 
 print!("Hello World!");
