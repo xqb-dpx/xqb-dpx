@@ -1,6 +1,6 @@
 # Perl
 =pod
-perl
+pl
 =cut
 
 print "Hello World!";
