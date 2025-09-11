@@ -4,9 +4,9 @@ Some of my private projects:
 
 - DNS system with automatic best-case configuration and server based on data mining with AI.
 
-~ Android and Windows (usable for linux)
+~ Windows (usable for linux)
 
-> Java, .NET C#, Python, Exploit (ps1, bat, sh)
+> .NET C#, Python, Exploit (ps1, bat, sh)
 
 - AI chatbot with a focus on programming-based responsiveness.
 
