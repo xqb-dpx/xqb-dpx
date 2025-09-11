@@ -1,6 +1,8 @@
+### Bio
+
 **I don't think the claim, description, and definition of myself is correct, but in general, I can say that I am a computer engineering student; someone who has experienced everything related to the computer world (more or less).**
 
-Some of my private projects:
+### Some of my private projects:
 
 - DNS system with automatic best-case configuration and server based on data mining with AI.
 
