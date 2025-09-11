@@ -6,12 +6,20 @@ Some of my private projects:
 
 ~ Windows (usable for linux)
 
-> .NET C#, Python, Exploit (ps1, bat, sh)
+> `.NET C#`
+
+> `Python`
+
+> `Exploit (ps1, bat, sh)`
 
 - AI chatbot with a focus on programming-based responsiveness.
 
 ~ Web
 
-> PHP, Python, .NET C#, Front-End (html, css, scss, js)
+> `PHP`
+
+> `Python`
+
+> `Front-End (html, css, scss, js)`
 
 ![.](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/footer.svg)
